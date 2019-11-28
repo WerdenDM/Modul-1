@@ -1,0 +1,9 @@
+﻿  company_classes.cpp
+C:\Users\User\Downloads\task1\company_classes.cpp(33,83): warning C4838: преобразование из "bool" в "double" требует сужающего преобразования
+C:\Users\User\Downloads\task1\company_classes.cpp(161,43): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Downloads\task1\company_classes.cpp(169,46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Downloads\task1\company_classes.cpp(181,43): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+  task1.cpp
+  Создание кода...
+C:\Users\User\Downloads\task1\company_classes.cpp(189,46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  task1.vcxproj -> C:\Users\User\Downloads\task1\Debug\task1.exe
